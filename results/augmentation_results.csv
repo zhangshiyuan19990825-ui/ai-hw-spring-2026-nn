@@ -1,0 +1,5 @@
+test_condition,accuracy_percent
+clean,98.8
+rotate_10deg,97.94
+rotate_minus10deg,97.23
+translate_2px,95.12
