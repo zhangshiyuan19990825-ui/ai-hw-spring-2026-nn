@@ -1,2 +1,4 @@
 model,test_accuracy_percent
+mlp,96.84
 cnn,98.8
+transformer,96.07
