@@ -1,0 +1,12 @@
+Weights Summary
+
+The trained model weights are saved in the results/weights folder.
+
+Files:
+- mlp.pt: trained weights for the MLP model
+- cnn.pt: trained weights for the CNN model
+- transformer.pt: trained weights for the Transformer Encoder model
+
+In this project, the weights were not manually assigned. They were initialized by PyTorch and updated during training through backpropagation and the Adam optimizer.
+
+The model with the best result was CNN, with 98.80% test accuracy on the MNIST test set.
